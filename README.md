@@ -1,4 +1,4 @@
-# 🏥 ED-visit-12ML-prediction
+# ED-visit-12ML-prediction
 
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -6,13 +6,13 @@
 [![LightGBM](https://img.shields.io/badge/LightGBM-GPU-green.svg)](https://lightgbm.readthedocs.io)
 [![CatBoost](https://img.shields.io/badge/CatBoost-GPU-orange.svg)](https://catboost.ai)
 
-> **MSc Thesis | Tsinghua University | Vanke School of Public Health**
+> MSc Thesis | Tsinghua University | Vanke School of Public Health
 > 
-> *"Prioritizing sensitivity for high-risk events over overall AUC" — Thesis Proposal Section 3.4*
+> "Prioritizing sensitivity for high-risk events over overall AUC" — Thesis Proposal Section 3.4
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#-overview)
 - [⚠️ Important: Data Access Requirements](#️-important-data-access-requirements)
@@ -32,7 +32,7 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 This repository contains the complete code for my MSc thesis comparing **12 machine learning algorithms** for predicting clinical outcomes in emergency department patients using **only admission-available data** (≤90 minutes post-arrival).
 
@@ -61,7 +61,7 @@ The code is fully reproducible and produces thesis-ready outputs including:
 
 ---
 
-## ⚠️ Important: Data Access Requirements
+## Important: Data Access Requirements
 
 ### 🔒 Credentialed Data Access
 
